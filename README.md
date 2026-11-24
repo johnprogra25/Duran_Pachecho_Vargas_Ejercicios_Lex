@@ -2,7 +2,7 @@
 
 **Escuela Politécnica Nacional**  
 **Asignatura:** Compiladores y Lenguajes  
-**Integrantes:** Jhon Durán, Emily Pacheco y Emily Vargas  
+**Integrantes:** John Durán, Emily Pacheco y Emily Vargas  
 **Período:** 2026-B
 
 ## Descripción del proyecto
