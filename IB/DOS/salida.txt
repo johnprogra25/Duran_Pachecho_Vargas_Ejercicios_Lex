@@ -1,0 +1,6 @@
+Buenos dias, este es el Comando inicio ejecutado
+ de la sesion en el directorio DOS.
+Aqui probamos Inicio y tambien INICIO para ver que pasa.
+Si ocurre un reComando inicio ejecutado
+ del sistema, enviamos la orden Comando pare recibido
+ ahora mismo.

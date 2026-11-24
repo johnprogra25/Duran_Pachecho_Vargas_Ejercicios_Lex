@@ -1,0 +1,5 @@
+Letras mayusculas: 12
+Letras minusculas: 37
+Digitos: 7
+Espacios en blanco: 12
+Otros caracteres: 4

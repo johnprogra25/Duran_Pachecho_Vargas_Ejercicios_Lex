@@ -1,0 +1,3 @@
+Buenos dias, este es el inicio de la sesion en el directorio DOS.
+Aqui probamos Inicio y tambien INICIO para ver que pasa.
+Si ocurre un reinicio del sistema, enviamos la orden pare ahora mismo.

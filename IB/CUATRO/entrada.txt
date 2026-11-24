@@ -1,0 +1,4 @@
+variable1 = 42;
+valor_real = -3.14;
+notacion = 2.5e3 +10.0E-2;
+otro_dato @ # 99
