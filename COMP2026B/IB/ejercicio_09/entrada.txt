@@ -1,0 +1,3 @@
+carro,moto,camioneta,helicoptero,susuki_Jymmy
+Bangchan,LeeMinho,Changbin,WangHyujin,HanJisung,LeeFelix,KimSeungmin,YagYeonjin
+143,IloveYou.
