@@ -1,0 +1,7 @@
+hola mundo
+bienvenidos a compiladores y lenguajes
+mi nombre es paola pacheco
+abc123 xyz456
+if else while int
+precio: $125.50
+correo: paola@ejemplo.com
