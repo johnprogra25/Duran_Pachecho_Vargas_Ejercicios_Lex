@@ -81,8 +81,6 @@ Como complemento de la práctica, el equipo realizó una presentación conversad
 
 **[▶ Ver el podcast completo en Google Drive](https://drive.google.com/file/d/18yJQ2ILMRZHlpX3a5zWHsbN-_Im9c0yi/view?usp=sharing)**
 
-El video se conserva en Google Drive para evitar añadir un archivo MP4 de gran tamaño al repositorio. El enlace debe tener permisos de lectura para el docente.
-
 ## Objetivo académico
 
 Comprender el papel del **análisis léxico** en el proceso de compilación, mediante la definición de expresiones regulares, el reconocimiento de lexemas, la clasificación de tokens y la validación práctica de entradas y salidas.
