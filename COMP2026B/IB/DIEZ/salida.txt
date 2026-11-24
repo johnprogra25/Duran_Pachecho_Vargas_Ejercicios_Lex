@@ -1,0 +1,6 @@
+Ingresa texto o correos (Ctrl+D para salir):
+TOKEN_CORREO_VALIDO: Jhon@dominio.com
+TOKEN_CORREO_VALIDO: Paola@dominio.com
+TOKEN_CORREO_VALIDO: EmilyV@gmail.com
+TOKEN_CORREO_VALIDO: Jhon@hotmail.com
+TOKEN_CORREO_VALIDO: Paola@yahoo.com
